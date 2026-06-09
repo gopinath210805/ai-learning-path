@@ -1,0 +1,22 @@
+resource_id,skill_id,title,type,url,difficulty
+
+1,1,Python Official Documentation,Documentation,https://docs.python.org,Beginner
+2,1,Python Crash Course,Book,https://nostarch.com/pythoncrashcourse,Beginner
+3,1,FreeCodeCamp Python Course,Video,https://www.youtube.com/watch?v=rfscVS0vtbw,Beginner
+4,2,Java Documentation,Documentation,https://docs.oracle.com/javase,Beginner
+5,4,MDN HTML Guide,Documentation,https://developer.mozilla.org,Beginner
+6,5,MDN CSS Guide,Documentation,https://developer.mozilla.org,Beginner
+7,6,JavaScript Info,Tutorial,https://javascript.info,Beginner
+8,7,W3Schools SQL Tutorial,Tutorial,https://www.w3schools.com/sql,Beginner
+9,8,Machine Learning Crash Course,Course,https://developers.google.com/machine-learning/crash-course,Intermediate
+10,9,Deep Learning Specialization,Course,https://www.coursera.org,Advanced
+11,17,React Documentation,Documentation,https://react.dev,Intermediate
+12,20,Node.js Documentation,Documentation,https://nodejs.org,Intermediate
+13,31,MySQL Documentation,Documentation,https://dev.mysql.com/doc,Beginner
+14,41,NumPy Documentation,Documentation,https://numpy.org/doc,Beginner
+15,42,Pandas Documentation,Documentation,https://pandas.pydata.org/docs,Beginner
+16,55,TensorFlow Documentation,Documentation,https://tensorflow.org,Advanced
+17,56,PyTorch Documentation,Documentation,https://pytorch.org,Advanced
+18,61,AWS Training,Course,https://aws.amazon.com/training,Intermediate
+19,71,Docker Documentation,Documentation,https://docs.docker.com,Intermediate
+20,72,Kubernetes Documentation,Documentation,https://kubernetes.io/docs,Advanced
