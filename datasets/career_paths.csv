@@ -1,0 +1,32 @@
+career_id,career_name,required_skills,description,difficulty,estimated_months
+
+1,Frontend Developer,"HTML;CSS;JavaScript;React",Build modern responsive web applications,Beginner,6
+2,Backend Developer,"Python;SQL;Node.js;REST API",Develop server-side applications and APIs,Intermediate,8
+3,Full Stack Developer,"HTML;CSS;JavaScript;React;Node.js;SQL",Build complete web applications,Intermediate,10
+4,Software Engineer,"Python;Java;Data Structures;Git",Develop software systems and applications,Intermediate,8
+5,Data Analyst,"SQL;Python;Pandas;Statistics",Analyze and interpret business data,Beginner,6
+6,Business Analyst,"SQL;Statistics;Communication",Bridge business and technical requirements,Beginner,6
+7,Data Scientist,"Python;SQL;Machine Learning;Pandas;Statistics",Build predictive analytics solutions,Advanced,12
+8,Machine Learning Engineer,"Python;Machine Learning;Deep Learning;TensorFlow",Develop machine learning systems,Advanced,12
+9,AI Engineer,"Python;Machine Learning;Deep Learning;PyTorch;Generative AI",Build AI-powered applications,Advanced,14
+10,NLP Engineer,"Python;Natural Language Processing;Deep Learning",Develop language understanding systems,Advanced,12
+11,Computer Vision Engineer,"Python;Computer Vision;Deep Learning",Build image and video AI systems,Advanced,12
+12,Prompt Engineer,"Generative AI;Prompt Engineering;Python",Optimize AI interactions and workflows,Intermediate,6
+13,MLOps Engineer,"Python;Docker;Kubernetes;Model Deployment",Deploy and manage ML systems,Advanced,12
+14,Cloud Engineer,"AWS;Cloud Architecture;Cloud Security",Manage cloud infrastructure and services,Intermediate,10
+15,Cloud Architect,"AWS;Azure;Cloud Architecture;Cloud Networking",Design scalable cloud systems,Advanced,14
+16,Cloud Security Engineer,"AWS;Cloud Security;Network Security",Secure cloud environments,Advanced,12
+17,DevOps Engineer,"Docker;Kubernetes;Jenkins;CI/CD",Automate software deployment pipelines,Advanced,12
+18,Site Reliability Engineer,"Linux Administration;Docker;Monitoring and Logging",Ensure system reliability and scalability,Advanced,12
+19,System Administrator,"Linux Administration;Networking;Git",Manage IT infrastructure and servers,Intermediate,8
+20,Cybersecurity Analyst,"Network Security;Web Security;Risk Assessment",Protect systems and networks,Intermediate,10
+21,Ethical Hacker,"Ethical Hacking;Penetration Testing;Cryptography",Identify security vulnerabilities,Advanced,12
+22,Security Operations Engineer,"Security Operations;Incident Response;Network Security",Monitor and respond to threats,Advanced,10
+23,Database Administrator,"SQL;MySQL;PostgreSQL;Database Design",Manage database systems,Intermediate,8
+24,Data Engineer,"Python;SQL;ETL;Data Warehousing",Build data pipelines and platforms,Advanced,12
+25,Android Developer,"Kotlin;Android Development",Build Android mobile applications,Intermediate,8
+26,Flutter Developer,"Flutter;Dart;UI Design",Develop cross-platform mobile apps,Intermediate,8
+27,React Native Developer,"React Native;JavaScript;React",Develop cross-platform mobile applications,Intermediate,8
+28,iOS Developer,"iOS Development;UI Design",Build Apple mobile applications,Advanced,10
+29,UI Designer,"UI Design;Communication",Design attractive user interfaces,Beginner,5
+30,UX Designer,"UX Design;Communication;Problem Solving",Improve user experiences and usability,Intermediate,6
