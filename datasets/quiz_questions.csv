@@ -1,0 +1,41 @@
+question_id,skill_id,question,option_a,option_b,option_c,option_d,correct_answer,difficulty
+
+1,1,Which keyword defines a function in Python?,func,define,def,function,C,Beginner
+2,1,Which data type stores text?,int,float,string,bool,C,Beginner
+3,1,Which symbol starts a comment?,#,//,/*,--,A,Beginner
+4,1,What does len() return?,Length,Type,Sum,Average,A,Beginner
+5,1,Which collection is ordered and mutable?,Tuple,List,Set,Dictionary,B,Intermediate
+
+6,2,Java is a ?,Compiler,Programming Language,Database,OS,B,Beginner
+7,2,Which keyword creates an object?,new,create,class,object,A,Beginner
+8,2,Java supports ?,OOP only,Procedural only,OOP and Procedural,Neither,C,Intermediate
+9,2,Which method starts execution?,run,start,main,execute,C,Beginner
+10,2,Which package contains Scanner?,java.io,java.util,java.lang,java.net,B,Intermediate
+
+11,4,HTML stands for ?,HyperText Markup Language,HighText Machine Language,Hyper Tool Markup Language,None,A,Beginner
+12,4,Which tag creates a heading?,h1,p,div,span,A,Beginner
+13,4,Which tag creates a hyperlink?,a,link,img,url,A,Beginner
+14,4,Which tag inserts an image?,image,picture,img,src,C,Beginner
+15,4,Which tag creates a paragraph?,para,p,text,paragraph,B,Beginner
+
+16,5,CSS stands for ?,Creative Style Sheets,Cascading Style Sheets,Computer Style Sheets,None,B,Beginner
+17,5,Which property changes text color?,font,color,text-color,background,B,Beginner
+18,5,Which property changes background color?,bgcolor,background,background-color,color,C,Beginner
+19,5,Which selector selects all elements?,#,.,*,&,C,Intermediate
+20,5,Which property changes font size?,font,font-size,size,text-size,B,Beginner
+
+
+21,6,JavaScript is used for ?,Styling,Database,Interactivity,Storage,C,Beginner
+22,6,Which keyword declares a variable?,var,declare,create,new,A,Beginner
+23,6,Which function prints output?,print(),console.log(),echo(),display(),B,Beginner
+24,6,JavaScript runs in ?,Browser,Database,Compiler,OS,A,Beginner
+25,6,Which symbol is used for comments?,#,//,--,**,B,Beginner
+
+26,7,Which command retrieves data?,GET,FETCH,SELECT,SHOW,C,Beginner
+27,7,Which clause filters rows?,WHERE,FILTER,IF,CHECK,A,Beginner
+28,7,Which command inserts data?,ADD,INSERT,PUT,CREATE,B,Beginner
+29,7,Which command deletes data?,REMOVE,DELETE,CLEAR,DROP,B,Beginner
+30,7,SQL stands for ?,Structured Query Language,Simple Query Language,System Query Language,None,A,Beginner
+
+
+
