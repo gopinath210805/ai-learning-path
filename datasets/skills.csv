@@ -1,0 +1,11 @@
+skill_id,skill_name,category,level,description
+1,Python,Programming,Beginner,Programming fundamentals using Python
+2,Java,Programming,Intermediate,Object oriented programming using Java
+3,C++,Programming,Intermediate,System programming and performance applications
+4,HTML,Web Development,Beginner,Web page structure and content
+5,CSS,Web Development,Beginner,Web page styling and layouts
+6,JavaScript,Web Development,Intermediate,Interactive web development
+7,SQL,Database,Beginner,Database querying and management
+8,Machine Learning,AI,Intermediate,Building predictive models
+9,Deep Learning,AI,Advanced,Neural network architectures
+10,Data Structures,Programming,Intermediate,Efficient data organization
