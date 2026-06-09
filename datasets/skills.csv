@@ -1,11 +1,90 @@
-skill_id,skill_name,category,level,description
-1,Python,Programming,Beginner,Programming fundamentals using Python
-2,Java,Programming,Intermediate,Object oriented programming using Java
-3,C++,Programming,Intermediate,System programming and performance applications
-4,HTML,Web Development,Beginner,Web page structure and content
-5,CSS,Web Development,Beginner,Web page styling and layouts
-6,JavaScript,Web Development,Intermediate,Interactive web development
-7,SQL,Database,Beginner,Database querying and management
-8,Machine Learning,AI,Intermediate,Building predictive models
-9,Deep Learning,AI,Advanced,Neural network architectures
-10,Data Structures,Programming,Intermediate,Efficient data organization
+11,C Programming,Programming,Beginner,Fundamentals of procedural programming
+12,C#,Programming,Intermediate,Microsoft application development
+13,Go,Programming,Intermediate,Backend development using Go
+14,Rust,Programming,Advanced,System programming with memory safety
+15,Kotlin,Programming,Intermediate,Android application development
+16,TypeScript,Programming,Intermediate,Typed JavaScript development
+17,React,Web Development,Intermediate,Frontend library for web applications
+18,Angular,Web Development,Intermediate,Framework for dynamic web apps
+19,Vue.js,Web Development,Intermediate,Progressive JavaScript framework
+20,Node.js,Web Development,Intermediate,Server side JavaScript runtime
+21,Express.js,Web Development,Intermediate,Backend framework for Node.js
+22,Bootstrap,Web Development,Beginner,Responsive web design framework
+23,Tailwind CSS,Web Development,Intermediate,Utility first CSS framework
+24,PHP,Web Development,Intermediate,Server side web scripting
+25,Laravel,Web Development,Intermediate,PHP web application framework
+26,Django,Web Development,Intermediate,Python web framework
+27,Flask,Web Development,Beginner,Lightweight Python web framework
+28,ASP.NET,Web Development,Intermediate,Microsoft web application framework
+29,REST API,Web Development,Intermediate,Building web service interfaces
+30,GraphQL,Web Development,Advanced,Flexible API query language
+31,MySQL,Database,Beginner,Relational database management
+32,PostgreSQL,Database,Intermediate,Advanced relational database system
+33,MongoDB,Database,Intermediate,NoSQL document database
+34,SQLite,Database,Beginner,Lightweight embedded database
+35,Firebase,Database,Beginner,Cloud database platform
+36,Redis,Database,Advanced,In memory data storage
+37,Oracle SQL,Database,Intermediate,Enterprise database management
+38,Database Design,Database,Intermediate,Designing efficient databases
+39,Data Warehousing,Database,Advanced,Centralized data storage systems
+40,ETL,Database,Advanced,Extract transform load processes
+41,NumPy,Data Science,Beginner,Numerical computing in Python
+42,Pandas,Data Science,Beginner,Data analysis and manipulation
+43,Matplotlib,Data Science,Beginner,Data visualization library
+44,Seaborn,Data Science,Intermediate,Statistical data visualization
+45,Data Cleaning,Data Science,Beginner,Preparing datasets for analysis
+46,Exploratory Data Analysis,Data Science,Intermediate,Analyzing datasets visually
+47,Statistics,Data Science,Intermediate,Mathematical data analysis
+48,Probability,Data Science,Intermediate,Study of uncertainty and prediction
+49,Feature Engineering,Data Science,Advanced,Creating useful ML features
+50,Big Data,Data Science,Advanced,Processing large scale datasets
+51,Machine Learning Algorithms,AI,Intermediate,Core machine learning techniques
+52,Natural Language Processing,AI,Advanced,Text and language processing
+53,Computer Vision,AI,Advanced,Image and video analysis
+54,Reinforcement Learning,AI,Advanced,Learning through rewards and actions
+55,TensorFlow,AI,Advanced,Deep learning framework
+56,PyTorch,AI,Advanced,Machine learning framework
+57,Generative AI,AI,Advanced,Creating content using AI models
+58,Prompt Engineering,AI,Intermediate,Optimizing AI interactions
+59,AI Ethics,AI,Intermediate,Responsible AI development
+60,Model Deployment,AI,Advanced,Deploying AI applications
+61,AWS,Cloud Computing,Intermediate,Amazon cloud platform
+62,Microsoft Azure,Cloud Computing,Intermediate,Microsoft cloud services
+63,Google Cloud Platform,Cloud Computing,Intermediate,Google cloud infrastructure
+64,Cloud Security,Cloud Computing,Advanced,Securing cloud environments
+65,Cloud Architecture,Cloud Computing,Advanced,Designing scalable cloud systems
+66,Serverless Computing,Cloud Computing,Advanced,Event driven cloud services
+67,Virtualization,Cloud Computing,Intermediate,Creating virtual environments
+68,Cloud Networking,Cloud Computing,Advanced,Networking in cloud systems
+69,Cloud Storage,Cloud Computing,Intermediate,Managing cloud data storage
+70,Infrastructure as Code,Cloud Computing,Advanced,Automating infrastructure setup
+71,Docker,DevOps,Intermediate,Containerization technology
+72,Kubernetes,DevOps,Advanced,Container orchestration platform
+73,Jenkins,DevOps,Intermediate,Continuous integration automation
+74,Git,DevOps,Beginner,Version control system
+75,GitHub,DevOps,Beginner,Collaborative code hosting
+76,CI/CD,DevOps,Advanced,Automated software delivery
+77,Terraform,DevOps,Advanced,Infrastructure automation
+78,Ansible,DevOps,Advanced,Configuration management automation
+79,Linux Administration,DevOps,Intermediate,System management using Linux
+80,Monitoring and Logging,DevOps,Advanced,Tracking application performance
+81,Network Security,Cybersecurity,Intermediate,Protecting computer networks
+82,Ethical Hacking,Cybersecurity,Advanced,Authorized security testing
+83,Penetration Testing,Cybersecurity,Advanced,Simulating cyber attacks
+84,Cryptography,Cybersecurity,Advanced,Securing information through encryption
+85,Digital Forensics,Cybersecurity,Advanced,Investigating cyber incidents
+86,Security Operations,Cybersecurity,Intermediate,Monitoring security threats
+87,Identity Management,Cybersecurity,Intermediate,Managing user access control
+88,Web Security,Cybersecurity,Intermediate,Securing web applications
+89,Incident Response,Cybersecurity,Advanced,Handling cyber security incidents
+90,Risk Assessment,Cybersecurity,Intermediate,Evaluating security risks
+91,Android Development,Mobile Development,Intermediate,Building Android applications
+92,Flutter,Mobile Development,Intermediate,Cross platform mobile development
+93,React Native,Mobile Development,Intermediate,Mobile apps using React
+94,iOS Development,Mobile Development,Advanced,Developing Apple mobile apps
+95,UI Design,Design,Beginner,Creating user interfaces
+96,UX Design,Design,Intermediate,Improving user experiences
+97,Communication,Soft Skills,Beginner,Effective verbal and written communication
+98,Problem Solving,Soft Skills,Intermediate,Analyzing and resolving issues
+99,Teamwork,Soft Skills,Beginner,Collaborating effectively with teams
+100,Leadership,Soft Skills,Advanced,Leading projects and teams
