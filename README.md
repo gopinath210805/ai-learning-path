@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Personalized Learning Path Platform
 
-## Getting Started
+## Overview
 
-First, run the development server:
+AI Personalized Learning Path Platform helps learners identify their current skill level, receive personalized course recommendations, and follow structured learning paths toward their career goals.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Skill Assessment Quiz
+* Personalized Learning Paths
+* Course Recommendation Engine
+* Career Path Recommendation
+* Learning Resource Suggestions
+* Progress Tracking
+* AI Mentor Support
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Dataset Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### skills.csv
 
-## Learn More
+Contains skill information across programming, AI, cloud, cybersecurity, mobile development, design, and soft skills.
 
-To learn more about Next.js, take a look at the following resources:
+### courses.csv
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Maps courses to skills for recommendations.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### career_paths.csv
 
-## Deploy on Vercel
+Maps careers to required skills.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### quiz_questions.csv
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Used for skill assessment.
+
+### skill_prerequisites.csv
+
+Defines learning dependencies between skills.
+
+### learning_resources.csv
+
+Contains books, courses, tutorials, and documentation.
+
+## Tech Stack
+
+* React
+* TypeScript
+* Supabase
+* CSV Datasets
+* Recommendation Engine
+
+## Future Enhancements
+
+* GPT-powered AI Mentor
+* Adaptive Learning Paths
+* Resume-Based Skill Analysis
+* Gamification
+* Certification Recommendations
