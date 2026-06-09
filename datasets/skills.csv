@@ -1,3 +1,4 @@
+      skill_id,skill_name,category,level,description
 11,C Programming,Programming,Beginner,Fundamentals of procedural programming
 12,C#,Programming,Intermediate,Microsoft application development
 13,Go,Programming,Intermediate,Backend development using Go
