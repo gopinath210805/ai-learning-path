@@ -1,22 +1,28 @@
 export function recommendCareers(
   userSkills,
-  careers
+  careerPaths
 ) {
-  return careers
+  return careerPaths
     .map((career) => {
-      const required =
-        career.required_skills.split(";");
+      const requiredSkills =
+        career.required_skills
+          .split(";")
+          .map((skill) => skill.trim());
 
-      const matches = required.filter(
-        (skill) => userSkills.includes(skill)
-      ).length;
+      const matchedSkills =
+        requiredSkills.filter((skill) =>
+          userSkills.includes(skill)
+        );
 
-      const score =
-        (matches / required.length) * 100;
+      const matchScore = Math.round(
+        (matchedSkills.length /
+          requiredSkills.length) *
+          100
+      );
 
       return {
         ...career,
-        matchScore: Math.round(score),
+        matchScore,
       };
     })
     .sort(
